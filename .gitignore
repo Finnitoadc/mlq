@@ -1,0 +1,14 @@
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Output directories
+output/
+
+# TypeScript compiled output
+*.js
+# Ignore input and output files
+input/*.txt
+output/*.txt
+

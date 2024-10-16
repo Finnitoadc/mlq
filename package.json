@@ -1,0 +1,17 @@
+{
+  "name": "mlq_scheduler",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "ts-node src/main.ts"
+  },
+  "author": "Juan Tobar",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.0.0"
+  }
+}
